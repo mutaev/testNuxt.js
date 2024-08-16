@@ -1,0 +1,28 @@
+@import url("reset.css");
+@import url('https://fonts.googleapis.com/css2?family=Gravitas+One&family=Nanum+Gothic&family=Prompt&display=swap');
+
+body,html {
+    height: 100%;
+}
+
+body {
+    font-family: "Nanum Gothic", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #101010;
+
+}
+
+img {
+    max-width: 100%;
+}
+
+.container {
+    max-width: 1216px;
+    margin: 0 auto;
+}
+
+h1  {
+    font-size: 84px;
+    letter-spacing: 3px;
+}
