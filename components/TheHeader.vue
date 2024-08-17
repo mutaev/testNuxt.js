@@ -4,17 +4,17 @@
   <header class="header">
     <div class="container">
       <div class="header__inner">
-        <nuxt-link to="/blog" class="logo">
+        <nuxt-link to="/" class="logo">
           <img src="@/assets/img/Logo.svg" alt="logo" />
         </nuxt-link>
 
         <div class="header__box">
           <ul class="menu">
             <li class="menu__item">
-              <nuxt-link to="/blog" class="menu__link">Works</nuxt-link>
+              <nuxt-link to="/" class="menu__link">Works</nuxt-link>
             </li>
             <li class="menu__item">
-              <nuxt-link to="/blog" class="menu__link">About</nuxt-link>
+              <nuxt-link to="/" class="menu__link">About</nuxt-link>
             </li>
           </ul>
 
